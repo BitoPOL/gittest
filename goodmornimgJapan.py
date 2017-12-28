@@ -85,3 +85,5 @@ for event in events:
 
 
 #if __name__ ==
+
+#コミットテスト用にコメント追加
